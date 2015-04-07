@@ -1,0 +1,10 @@
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.MazeSolver\Ksu.Cis300.MazeSolver\bin\Debug\Ksu.Cis300.MazeSolver.exe.config
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.MazeSolver\Ksu.Cis300.MazeSolver\obj\Debug\Ksu.Cis300.MazeSolver.csprojResolveAssemblyReference.cache
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.MazeSolver\Ksu.Cis300.MazeSolver\obj\Debug\Ksu.Cis300.MazeSolver.MazeSolverForm.resources
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.MazeSolver\Ksu.Cis300.MazeSolver\obj\Debug\Ksu.Cis300.MazeSolver.Properties.Resources.resources
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.MazeSolver\Ksu.Cis300.MazeSolver\obj\Debug\Ksu.Cis300.MazeSolver.csproj.GenerateResource.Cache
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.MazeSolver\Ksu.Cis300.MazeSolver\bin\Debug\Ksu.Cis300.MazeSolver.exe
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.MazeSolver\Ksu.Cis300.MazeSolver\bin\Debug\Ksu.Cis300.MazeSolver.pdb
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.MazeSolver\Ksu.Cis300.MazeSolver\bin\Debug\Ksu.Cis300.MazeLibrary.dll
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.MazeSolver\Ksu.Cis300.MazeSolver\obj\Debug\Ksu.Cis300.MazeSolver.exe
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.MazeSolver\Ksu.Cis300.MazeSolver\obj\Debug\Ksu.Cis300.MazeSolver.pdb

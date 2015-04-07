@@ -1,0 +1,9 @@
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.PhoneCounter\Ksu.Cis300.PhoneCounter\bin\Debug\Ksu.Cis300.PhoneCounter.exe.config
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.PhoneCounter\Ksu.Cis300.PhoneCounter\obj\Debug\Ksu.Cis300.PhoneCounter.csprojResolveAssemblyReference.cache
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.PhoneCounter\Ksu.Cis300.PhoneCounter\obj\Debug\Ksu.Cis300.PhoneCounter.Properties.Resources.resources
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.PhoneCounter\Ksu.Cis300.PhoneCounter\obj\Debug\Ksu.Cis300.PhoneCounter.UserInterface.resources
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.PhoneCounter\Ksu.Cis300.PhoneCounter\obj\Debug\Ksu.Cis300.PhoneCounter.csproj.GenerateResource.Cache
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.PhoneCounter\Ksu.Cis300.PhoneCounter\bin\Debug\Ksu.Cis300.PhoneCounter.exe
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.PhoneCounter\Ksu.Cis300.PhoneCounter\bin\Debug\Ksu.Cis300.PhoneCounter.pdb
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.PhoneCounter\Ksu.Cis300.PhoneCounter\obj\Debug\Ksu.Cis300.PhoneCounter.exe
+c:\users\deedasmi\documents\visual studio 2013\Projects\Ksu.Cis300.PhoneCounter\Ksu.Cis300.PhoneCounter\obj\Debug\Ksu.Cis300.PhoneCounter.pdb
